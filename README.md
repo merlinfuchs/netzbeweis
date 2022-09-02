@@ -1,6 +1,6 @@
 # netzbeweis
 
-This is a Proof-Of-Concept showing how to create fake evidence with [netzbeweis.de](https://netbeweis.de). Netzbeweis
+This is a Proof-Of-Concept showing how to create fake evidence with [netzbeweis.com](https://netzbeweis.com). Netzbeweis
 takes screenshots of websites and signs them with the current date and time. This way they can be used as evidence for
 legal purposes.
 
